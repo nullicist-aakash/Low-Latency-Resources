@@ -19,8 +19,12 @@
 ### Process Structure in Linux Environment
 
 ### How does a debugger work
+- [Steven Rostedt - Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y).
 
 ### Advanced Linux system calls
 
 ### Linux Kernel
-- [Steven Rostedt - Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y).
+
+# Projects
+## Debugger
+## Trading system
